@@ -4,7 +4,7 @@ The implementation of this idea has just started. I've put it here because one o
 showing the current tag, is easily implemented by simply calling the `timew` command.
 
 ## Desired functionality:
-- [x] show the current tag being tracked
+- [x] show the tag being tracked
 - [ ] allow to start a tag tracking
 - [ ] allow to stop the current tag tracking
 - [ ] toggle for a more detailed view of the current tracking
