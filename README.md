@@ -1,6 +1,6 @@
 # timewarrior-polybar
 A polybar plugin to track timewarrior states, because I always forget to deactivate/activate a current task.
-This idea has just started. I've put it here because one of the main functionalities I need, which is
+The implementation of this idea has just started. I've put it here because one of the main functionalities I need, which is
 showing the current tag, is easily implemented by simply calling the `timew` command.
 
 Desired functionality:
